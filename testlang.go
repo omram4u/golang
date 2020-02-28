@@ -1,7 +1,7 @@
-package main
+package testgitsrc
 
 import "fmt"
 
-func main() {
+func Gprint() {
 	fmt.Print("hello world\n")
 }
